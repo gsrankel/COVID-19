@@ -3,6 +3,9 @@
 ## Summary of Notebook
 Within our notebooks, our goal was to format the data so that it would be easier to use when we uploaded it into Tableau. Various Functions were created around each individual sheet to be properly formatted as well as be able to add the current day data to Master Sheets, which have been collecting data posted since March 26th, 2020.
 
+Be sure to check out the full write up on the findings in the link below:
+- https://medium.com/@gregrankel/nyc-covid-19-whose-at-risk-and-is-the-curve-flattening-66a92cff71d7
+
 ## Data
 Data has been provided daily by the NYC Department of Health and Mental Hygiene as well as the NYS Department of health. Please with all datasets provided:
 
